@@ -5,7 +5,7 @@ Inverts the colors of an image.
 ### Installation
 Enter the commands in the command line:
 ```
-git clone https://github.com/Ghost300WT/InvertColors
+git clone https://github.com/Hizokawa/InvertColors
 cd InvertColors
 ```
 ### Usage
