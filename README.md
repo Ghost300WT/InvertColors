@@ -34,5 +34,8 @@ python InvertColors.py
 Вставьте **путь к папке, в которую вы хотите сохранить инвертированное изображение**
 
 
-# Input
+## Input
 ![Input](https://github.com/Hizokawa/InvertColors/blob/main/input.jpg)
+
+## Output
+![Output](https://github.com/Hizokawa/InvertColors/blob/main/output.jpg)
