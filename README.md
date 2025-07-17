@@ -35,4 +35,4 @@ python InvertColors.py
 
 
 # Input
-!https://github.com/Hizokawa/InvertColors/blob/main/input.jpg
+![Input](https://github.com/Hizokawa/InvertColors/blob/main/input.jpg)
